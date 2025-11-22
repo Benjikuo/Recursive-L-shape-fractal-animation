@@ -7,7 +7,7 @@ A generative animation system that recursively draws L-shaped structures using l
 
 <br>
 
-## 🛠️ Why I Built ThisMathematics in Art Design
+## 🛠️ Why I Built This
 - This project is a fractal animation created for my Mathematics in Art Design course.
 - I chose the L-shape for its simple recursive beauty that fascinated me since childhood.
 - Watching the fractal grow is calming and reveals the elegance within mathematics.
@@ -15,12 +15,7 @@ A generative animation system that recursively draws L-shaped structures using l
 <br>
 
 ## 🧩 Features
-- 🎈 **Floating Balloons** – Balloons smoothly rise with subtle movement variations.
-- 🎉 **Falling Confetti** – A lively particle system that scatters colorful confetti across the screen.
-- 🚩 **Dynamic Bunting Flags** – Color-changing flags with a wavy rope animation at the top.
-- 🎁 **Dropping Gift Boxes** – Randomly falling gifts with bouncing animation and rare golden gift variations.
-- 💥 **Fireworks** – Burst-style particle explosions with randomized colors and fading trails.
-- 🌏 **Bilingual Message Switching** – Switches title language with scrambling transition effect.
+- 
 
 <br>
 
