@@ -49,4 +49,4 @@ Happy birthday/
 This project is released under the **MIT License**.  
 You are free to use, modify, and share it for learning or personal projects.  
   
-**Let's enjoy the beauty of the math.**
+**Let's enjoy the beauty of mathematics..**
